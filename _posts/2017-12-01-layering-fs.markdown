@@ -23,7 +23,7 @@ In this lab, we will look at how layering filesystems work. Its no magic at all 
 
 ## <a name="task0"></a>Task 0: Prerequisites
 
-First lets create some directories, and files
+First lets create some directories, and files:
 ```.term1
     mkdir -p  /var/lib/docker/overlay2/hack
     cd $_
